@@ -1,6 +1,0 @@
-pip==23.2.1
-streamlit
-finance-datareader
-pandas
-datetime
-beautifulsoup4
